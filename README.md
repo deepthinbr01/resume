@@ -1,7 +1,7 @@
 # DEEPTHI VENUGOPAL
 +1 (408)-601-7053 | [deepthinbr01@gmail.com](mailto:deepthinbr01@gmail.com) | [https://www.linkedin.com/in/deepthi-venugopal-ba8a5281/](https://www.linkedin.com/in/deepthi-venugopal-ba8a5281/)
 
-# DevOps Engineer with 2 years of experience in background in Linux/Unix, VMWare, CI/CD
+## DevOps Engineer with 2 years of experience in background in Linux/Unix, VMWare, CI/CD
 
 ## Microsoft Corporation | as Azure Site Recovery Engineer. Aug 2014 to Aug 2015
 
