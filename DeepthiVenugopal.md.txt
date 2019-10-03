@@ -1,0 +1,47 @@
+# DEEPTHI VENUGOPAL
+
+##  +1 (408)-601-7053 | [deepthinbr01@gmail.com](mailto:deepthinbr01@gmail.com) | [https://www.linkedin.com/in/deepthi-venugopal-ba8a5281/](https://www.linkedin.com/in/deepthi-venugopal-ba8a5281/)
+
+DevOps Engineer with 2 years of experience in background in Linux/Unix, VMWare, CI/CD
+
+## Microsoft Corporation | as Azure Site Recovery Engineer. Aug 2014 to Aug 2015
+
+Microsoft Azure Site Recovery (ASR) is the disaster recovery service on Azure. ASR provide replication and failover to Hyper-V and VMware based virtual machines into Azure.
+
+- Member of the Azure Hybrid Storage and Data Protection (HSDP) Team.
+
+- Worked with customers to help deploy Azure Site Recovery (ASR) for on-premise VM migration and disaster recovery into Azure.
+
+- Configured and Setup Virtual Machines on Azure using compute, storage and network.
+
+## InMage System Inc | as Professional Services Engineer. Aug 2013 to Aug 2014
+
+InMage DR Scout product deployment engineer. Worked with customers and partners to help deploy DR Scout Product
+
+- Deployment of Disaster Recovery and Backup solutions for customers using InMage DRScout
+
+- Performing failover and failback DR testing for SunGard Availability Service Recover To Cloud (R2C) Managed DRaaS
+
+- Testing, configuring and setting up Virtual Machines environments on SunGard&#39;s VMware Clouds
+
+## TECHNOLOGY
+
+- Hands on experience in installing and administering CI/CD tools like **Jenkins** , SonarQube.
+- Proficiency with Configuration Management tools &amp; Build management tools such as **Git** , **Maven**.
+- Deployed Java applications on Apache Tomcat.
+- Configured and Administered Nexus Repository Manager for GIT repositories.
+- Experience using IaaS on **Azure** , **AWS** and **Google**** Cloud**.
+- Working knowledge of **Docker** and **Kubernetes**.
+- Experience in VM backup and disaster recovery using **Azure Site Recovery**.
+- Experience writing **Ansible** playbook to automate our build/deployment process
+- Experienced in setting up project baselines, branching strategies, merging and taking regular backups of the source code.
+- Experience on Develop, enhance and maintain the build and configuration tool for continuous integration.
+
+## EDUCATION
+
+- Master&#39;s in computer application, AWH Engineering College, Calicut, Kerala, India.
+- Bachelor&#39;s Degree in Computer Science. Mahatma Gandhi College, Kannur, Kerala, India.
+
+## VISA STATUS
+
+**         I can legally work for any employer in the US. No paperwork or sponsorship required.**
